@@ -26,6 +26,9 @@ La altura promedio de los medallistas aumentó ~1 cm cada 10 años.
 
 El peso promedio creció ~1,16 kg por década.
 
+<img width="618" height="534" alt="image" src="https://github.com/user-attachments/assets/d3075f32-d41e-44ca-9cd9-1540b3b536d8" />
+
+
 El índice de diversidad del medallero creció notablemente en las últimas décadas, reflejando mayor competitividad global.
 
 Aplicación educativa:
